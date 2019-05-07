@@ -1,0 +1,1 @@
+{"processes":{"52a56b2c-2026-4ca2-aa40-2ba10410a547":{"parent":null,"children":["7628a069-36a4-4e4a-b56c-41818b91f909"]},"7628a069-36a4-4e4a-b56c-41818b91f909":{"parent":"52a56b2c-2026-4ca2-aa40-2ba10410a547","children":[]}},"files":{"/home/pritheodoro/Documentos/Laboratoria/validador/index.js":["7628a069-36a4-4e4a-b56c-41818b91f909"]},"externalIds":{}}
