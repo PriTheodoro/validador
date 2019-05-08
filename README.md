@@ -1,4 +1,4 @@
-# Converso de números romanos para arábicos e númros arábicos para romanos v.1.0.0
+# Converso de números romanos para arábicos e números arábicos para romanos v.1.0.0
 
 **Esta biblioteca se destina à conversão de números romanos para arábicos e vice versa, para utilização em aplicações web.**
 Nesta versão é possível converter os números arábico de 1 a 1.000.000.00 para números romanos e os seus equvalentes em números 
